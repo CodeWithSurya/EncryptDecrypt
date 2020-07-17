@@ -11,7 +11,7 @@ def heading():
           "         (|     (|                                   \033[0m")
     print('-------------------------------------------------------\n')
 
-    print('\033[1;33mCodeWithSurya \031[0m')
+    print('\033[1;31mCodeWith\033[0Surya')
     print('\033[32m', time.asctime(), '\033[0mversion:1.0\nrelease date:15-Nov-2019')
 
 
@@ -145,6 +145,6 @@ def main():
     body2(x,y,f1,f2)
     time.sleep(4)
     print('\n-------------------------------------------------------------------------')
-    print('\033[33mCodeWithSurya\031[0m,Thanks to all members for its support and contributions')
+    print('\033[31mCodeWith\033[0mSurya, Thanks to all members for its support and contributions')
 
 main()
