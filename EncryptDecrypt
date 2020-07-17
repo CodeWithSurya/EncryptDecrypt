@@ -18,7 +18,7 @@ print("\033[1;31md88888b d8b   db  .o88b. d8888b. db    db d8888b. d888888b   .d
 "Y8888D' Y88888P  `Y88P' 88   YD    YP    88         YP    \033[0m")
 print('--------------------------------------------------------------------\n')
 
-print('\033[1;31mFORTIFY \033[0mSOLUTIONS')
+print('\033[1;31mCodeWithSurya \033[0m ***')
 print(time.asctime(),'version:1.0\nrelease date:08-Nov-2019')
 print('\n\033[1;31m[1]\033[0m To Encrypt Data\n\033[1;31m[2]\033[0m To Decrypt Data')
 while True:
@@ -117,4 +117,4 @@ print('\n\nNote: A file Name: LogSheet is Generated and the file path is:')
 print(os.path.realpath(__file__))
 time.sleep(2)
 print('\n-------------------------------------------------------------------------')
-print('\033[31mFORTIFY\033[0m SOLUTIONS, Thanks to all members for its support and contributions')
+print('\033[31mCodeWithSurya\033[0m ***, Thanks to all members for its support and contributions')
