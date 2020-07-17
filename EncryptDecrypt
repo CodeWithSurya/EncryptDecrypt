@@ -19,7 +19,7 @@ print("\033[1;31md88888b d8b   db  .o88b. d8888b. db    db d8888b. d888888b   .d
 print('--------------------------------------------------------------------\n')
 
 print('\033[1;31mCodeWith\033[0Surya')
-print(time.asctime(),'version:1.0\nrelease date:08-Nov-2019')
+print(time.asctime(),'version:1.0\nrelease date:08-Jun-2020')
 print('\n\033[1;31m[1]\033[0m To Encrypt Data\n\033[1;31m[2]\033[0m To Decrypt Data')
 while True:
         try:
