@@ -10,7 +10,7 @@ def heading():
           " \___/\_/ |_/  \/|/    (/ |_/ /\/|_/    (/   |/|_/|_/\n"
           "         (|     (|                                   \033[0m")
     print('-------------------------------------------------------\n')
-    print('\033[1;31mCodeWith\033[0Surya')
+    print('\033[1;31mCodeWithSurya\033[0')
     print('\033[32m', time.asctime(), '\033[0mversion:1.0\nrelease date:10-Jun-2020')
 
 
